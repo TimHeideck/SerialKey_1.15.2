@@ -1,0 +1,9 @@
+name: SerialKey
+version: 1.0.0
+author: Skyost
+main: fr.skyost.serialkey.bukkit.SerialKey
+api-version: 1.13
+commands:
+  serialkey:
+    description: Allows you to get the key corresponding to your facing block
+    usage: /serialkey getkey
